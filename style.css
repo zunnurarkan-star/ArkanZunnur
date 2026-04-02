@@ -1,6 +1,6 @@
 body{
   background:#01B695;
-  color:#333;
+  color:#01B695;
   width:100%;
   font-family:sans-serif;
   margin:0 auto;
@@ -17,3 +17,7 @@ body{
   <div class="jarak">
     <h2>Belajar Membuat Layout dengan HTML dan CSS</h2>
   <div/div>
+.jarak{
+    padding:0 2pc;
+}
+    
