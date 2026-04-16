@@ -20,7 +20,7 @@ body{
 }
 
 .jarak {
-  padding: 0 2em;  /* or 2rem, 2px, 2%, etc. */
+  padding: 0 2em;
 }
 
 .menu {
@@ -30,6 +30,6 @@ body{
   position: relative;
   width: 90%;
   margin: 0 auto;
-  padding: 0;  /* or remove entirely if no padding needed */
+  padding: 0;
 }
 
