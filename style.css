@@ -19,3 +19,17 @@ body{
   padding: 0 2pc;
 }
 
+.jarak {
+  padding: 0 2em;  /* or 2rem, 2px, 2%, etc. */
+}
+
+.menu {
+  background-color: #417aa8;
+  height: 50px;
+  line-height: 50px;
+  position: relative;
+  width: 90%;
+  margin: 0 auto;
+  padding: 0;  /* or remove entirely if no padding needed */
+}
+
